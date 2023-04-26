@@ -4,4 +4,4 @@ players = ["telma",
            "asal",
            "mahsa",]
 
-print(players[3])
+print(players[-3:])
