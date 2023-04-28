@@ -1,5 +1,5 @@
-animals  = ["monkeys","birds","cats"]
+animals  = ["monkeys","birds","cats",]
    
 print("The first three items in the list are:")
 for animal in animals[:3]:
-    print(animal.title())
+    print ("i have many incommon with:",animal.title())
